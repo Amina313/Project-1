@@ -17,4 +17,4 @@
 * Базовые библиотеки: Pandas, NumPy
 * Визуализация: Matplotlib, Seaborn, Plotly
 
-### [Cсылка на Проект 1](https://github.com/Amina313/-3.-EDA/blob/main/project_3_eda.ipynb)
+### [Cсылка на Проект 1](https://github.com/Amina313/Project-1/blob/main/Project_1.ipynb)
